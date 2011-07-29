@@ -21,15 +21,6 @@ jQuery plugin to turn an unordered list <ul> into a simple ticker, displaying on
 Examples
 ========
 
-HTML structure
-
-<ul id="ticker1">
-  <li>1 - First item - Lorem Ipsum is simply dummy text of the printing and typesetting</li>
-  <li>2 - Second item - Lorem Ipsum is simply dummy text of the printing and typesetting</li>
-  <li><a href="">3 - Third item - Lorem Ipsum is simply dummy text of the printing and typesetting</a></li>
-  <li><a href="">4 - Fourth item - Lorem Ipsum is simply dummy text of the printing and typesetting</a></li>
-</ul>
-
 - Effect fadeIn (default)
 
 $("#ticker1").ticker();
