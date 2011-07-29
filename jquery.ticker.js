@@ -10,7 +10,7 @@
  * http://www.gnu.org/licenses/gpl.html
  *
  * Examples http://www.radekpleskac.com.com/projects/jquery-ticker/	
- * jQuery plugin to navigate images/any content in a carousel style widget.
+ * jQuery plugin to turn an unordered list <ul> into a simple ticker, displaying one list item at a time 
  *
 */
 
